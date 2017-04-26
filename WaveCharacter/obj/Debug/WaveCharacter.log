@@ -1,0 +1,7 @@
+﻿  ofApp.cpp
+d:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  WaveCharacter.vcxproj -> D:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\WaveCharacter\bin\WaveCharacter_debug.exe
+  WaveCharacter.vcxproj -> bin\WaveCharacter_debug.pdb (Full PDB)
+  
+  	                   9	D:\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\Win32\
